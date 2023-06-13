@@ -1,9 +1,9 @@
 {
   "mod_name": "BossCursor",
-  "author": "",
-  "description": "",
+  "author": "Hadyn",
+  "description": "BossCursor个人汉化",
   "package_name": "package",
-  "display_name": "MyPackage",
+  "display_name": "BossCursor_20230613_zh-CN",
   "culture": "zh-CN",
-  "version": "0.0"
+  "version": "1.0"
 }
