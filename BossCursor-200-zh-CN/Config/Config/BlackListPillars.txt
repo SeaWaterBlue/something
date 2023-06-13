@@ -1,0 +1,12 @@
+Label :
+{
+	Origin : Blacklist celestial pillars
+	Current : 天界塔（四柱）黑名单
+}
+
+Tooltip :
+{
+	Origin : Draw cursors for celestial pillars
+	Current : 显示天界塔（四柱）光标
+}
+

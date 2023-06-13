@@ -1,0 +1,12 @@
+Label :
+{
+	Origin : Hide cursor for on screen bosses
+	Current : 隐藏指向屏幕内Boss的光标
+}
+
+Tooltip :
+{
+	Origin : Hide the cursor for bosses, which are inside the view camera.
+	Current : 隐藏指向屏幕视角镜头内Boss的光标指针
+}
+

@@ -1,0 +1,12 @@
+Label :
+{
+	Origin : Cursor size scale
+	Current : 光标大小
+}
+
+Tooltip :
+{
+	Origin : The scaling factor of the cursor.
+	Current : 光标的比例因子.
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Boss Cursor disabled
+	Current : 禁用Boss光标
+}
+
+1 :
+{
+	Origin : Boss Cursor enabled
+	Current : 启用Boss光标
+}
+

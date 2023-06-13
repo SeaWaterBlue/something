@@ -1,0 +1,12 @@
+Label :
+{
+	Origin : Cursor distance
+	Current : 光标距离
+}
+
+Tooltip :
+{
+	Origin : The distance the cursor is from the player.
+	Current : 光标离玩家的距离.
+}
+

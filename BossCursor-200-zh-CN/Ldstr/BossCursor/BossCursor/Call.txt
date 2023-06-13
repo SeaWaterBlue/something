@@ -1,0 +1,24 @@
+0 :
+{
+	Origin : AddToBlackList
+	Current : 添加到黑名单
+}
+
+1 :
+{
+	Origin : AddNpc
+	Current : 添加NPC
+}
+
+2 :
+{
+	Origin : Unknown method: '
+	Current : 未知方法: '
+}
+
+3 :
+{
+	Origin : '
+	Current : '
+}
+

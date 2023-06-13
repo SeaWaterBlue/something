@@ -1,0 +1,6 @@
+0 :
+{
+	Origin : BossCursor/UI/Cursor
+	Current : Boss光标/UI/光标
+}
+

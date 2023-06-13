@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : NPC with id: [
+	Current : NPC : [
+}
+
+1 :
+{
+	Origin : ] has been added to the whitelist
+	Current : ] 已被添加至白名单
+}
+

@@ -1,0 +1,12 @@
+0 :
+{
+	Origin : Toggle Boss Cursor
+	Current : 切换Boss光标
+}
+
+1 :
+{
+	Origin : B
+	Current : B
+}
+
